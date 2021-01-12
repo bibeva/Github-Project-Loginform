@@ -6,7 +6,7 @@
 
 body {
   font: 15px/1.4 'Poppins', sans-serif;
-  background: #4ec5c1;
+  background: #60e85e;
   color: #333;
 }
 
@@ -46,7 +46,7 @@ input[type="password"] {
 }
 
 button {
-  background: #4ec5c1;
+  background: #60e85e;
   color: #fff;
   border: none;
   border-radius: 10px;
